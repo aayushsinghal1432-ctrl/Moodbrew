@@ -1,0 +1,6 @@
+{
+  "name": "MOODBREW",
+  "description": "An interactive mood-based coffee experience matching your emotions with handcrafted brews, a 18-drink signature collection, and personalized Mood Letters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
